@@ -1,3 +1,4 @@
 apiEnv
 *.pyc
 .idea
+.DS_Store
